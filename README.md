@@ -31,18 +31,31 @@ Biólogo
 ---
 ## Tutoriais disponíveis
 🔗 [Preparativos para começar](https://github.com/DRM-CPQBA/Tutoriais-DRM/blob/master/Preparativos%20para%20come%C3%A7ar.md) (**Obrigatório**)
+
 🔗 [UNIX Shell](https://) (**Obrigatório**)
+
 🔗 [Tipos de arquivos](https://) (**Obrigatório**)
+
 🔗 [Conda](https://) (**Obrigatório**)
+
 🔗 [Controle de qualidade e trimagem](https://) (**Obrigatório**)
+
 🔗 [Metabarcoding para bactérias (16S rRNA) e fungos (ITS)](https://)
+
 🔗 [QIIME2 - gene 16S rRNA](https://)
+
 🔗 [ITS Qiime2](https://)
+
 🔗 [Processamento “manual” de dados de sequenciamento Shotgun (Metagenômica](https://)
+
 🔗 [Processamento “automâtico” de dados de sequenciamento Shotgun (Metagenômica)](https://)
+
 🔗 [Binning - Reconstrução de genomas apartir de metagenomas](https://)
+
 🔗 [Montagem de-novo de genomas](https://)
+
 🔗 [RNA-seq - Metatranscriptômica](https://)
+
 🔗 [R](https://)
 
 
