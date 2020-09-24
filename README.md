@@ -64,34 +64,4 @@ Você pode ter muitas dúvidas, é normal 👍🏼❗️ Só **não** é permiti
 
 **Have fun!** :sparkle: 
 
-🔗 [UNIX Shell](https://) (**Obrigatório**)
-
-🔗 [Tipos de arquivos](https://) (**Obrigatório**)
-
-🔗 [Conda](https://) (**Obrigatório**)
-
-🔗 [Controle de qualidade e trimagem](https://) (**Obrigatório**)
-
-🔗 [Metabarcoding para bactérias (16S rRNA) e fungos (ITS)](https://)
-
-🔗 [QIIME2 - gene 16S rRNA](https://)
-
-🔗 [ITS Qiime2](https://)
-
-🔗 [Processamento “manual” de dados de sequenciamento Shotgun (Metagenômica](https://)
-
-🔗 [Processamento “automâtico” de dados de sequenciamento Shotgun (Metagenômica)](https://)
-
-🔗 [Binning - Reconstrução de genomas apartir de metagenomas](https://)
-
-🔗 [Montagem de-novo de genomas](https://)
-
-🔗 [RNA-seq - Metatranscriptômica](https://)
-
-🔗 [R](https://)
-
-
-### Dúvidas❓ 
-Você pode ter muitas dúvidas, é normal 👍🏼❗️Só **não** é permitido ficar com elas 👎🏼, então **não dúvide** em perguntar  🙋🏻‍♀️  pra qualquer dos colaboradores 👩🏻‍💻👨🏻‍💻 , que enquanto a gente puder vai tentar ajudar você a resolve-las 🙌🏼 
-
-**Have fun!** :sparkle: 
+ 
