@@ -34,7 +34,7 @@ Biólogo
 
 🔗 [UNIX Shell](https://github.com/GEMM-DRM/Tutoriais-GEMM/blob/master/UNIX_Shell.md) (**Obrigatório**)
 
-🔗 [Tipos de arquivos](https://) (**Obrigatório**)
+🔗 [Formatos de arquivos](https://) (**Obrigatório**)
 
 🔗 [Conda](https://) (**Obrigatório**)
 
