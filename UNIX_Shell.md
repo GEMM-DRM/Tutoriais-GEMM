@@ -695,4 +695,7 @@ gzip -d filename.gz
 | grep    | Procura padrões dentro dos arquivos 📄                |
 | wc      | conta caracteres, palavras e linhas de um arquivo 📄 |
 | kill    | para procesos                                     |
+
+Convido você a testar seu aprendizado com o seguinte [test](https://github.com/GEMM-DRM/Tutoriais-GEMM/blob/master/TEST_UNIX_SHELL.md) 
+
 **FIM** :sparkle: 
