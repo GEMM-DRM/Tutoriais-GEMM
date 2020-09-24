@@ -38,6 +38,8 @@ Biólogo
 
 🔗 [Conda](https://) (**Obrigatório**)
 
+🔗 [Fillezilla](https://) (**Obrigatório**)
+
 🔗 [Controle de qualidade e trimagem](https://) (**Obrigatório**)
 
 🔗 [Metabarcoding para bactérias (16S rRNA) e fungos (ITS)](https://)
