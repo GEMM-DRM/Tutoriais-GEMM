@@ -4,23 +4,23 @@ Este tutorial 🗒 foi criado para os alunos e pesquisadores :female-scientist: 
 
 ## Colaboradores
 
-* :female-scientist::female-technologist: MSc. Kelly J. Hidalgo Martinez
+* 👩🏻‍💻 MSc. Kelly J. Hidalgo Martinez
 Microbióloga
 Doutoranda em Genética e Biologia Molecular
 Instituto de Biologia - UNICAMP
-:iphone: Whastapp: +5519981721510
-:mailbox_with_mail:  Email: khidalgo@javeriana.edu.co
+Whastapp: +5519981721510
+Email: khidalgo@javeriana.edu.co
 
-* :male-scientist::male-technologist: Victor Borin Centurion
+* 👨🏻‍💻  Victor Borin Centurion
 Biomédico
 Doutorando em Genética e Biologia Molecular
 Instituto de Biologia - UNICAMP
-:iphone:Whastapp: +5519982349780
-:mailbox_with_mail: Email: vborincenturion@yahoo.com.br
+Whastapp: +5519982349780
+Email: vborincenturion@yahoo.com.br
 
-* :male-scientist::male-technologist: Dr. Tiago Palladino Delforno
+* 👨🏻‍💻  Dr. Tiago Palladino Delforno
 Biólogo
-:mailbox_with_mail:  Email: tiago.palladino@gmail.com
+Email: tiago.palladino@gmail.com
 
 
 ---
