@@ -32,7 +32,7 @@ Biólogo
 ## Tutoriais disponíveis
 🔗 [Preparativos para começar](https://github.com/GEMM-DRM/Tutoriais-GEMM/blob/master/preparativos_para_come%C3%A7ar.md) (**Obrigatório**)
 
-🔗 [UNIX Shell](https://) (**Obrigatório**)
+🔗 [UNIX Shell](https://github.com/GEMM-DRM/Tutoriais-GEMM/blob/master/UNIX_Shell.md) (**Obrigatório**)
 
 🔗 [Tipos de arquivos](https://) (**Obrigatório**)
 
