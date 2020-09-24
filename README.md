@@ -30,7 +30,7 @@ Biólogo
 
 ---
 ## Tutoriais disponíveis
-🔗 [Preparativos para começar](https://github.com/DRM-CPQBA/Tutoriais-DRM/blob/master/Preparativos%20para%20come%C3%A7ar.md) (**Obrigatório**)
+🔗 [Preparativos para começar](https://github.com/GEMM-DRM/Tutoriais-GEMM/blob/master/preparativos_para_come%C3%A7ar.md) (**Obrigatório**)
 
 🔗 [UNIX Shell](https://) (**Obrigatório**)
 
